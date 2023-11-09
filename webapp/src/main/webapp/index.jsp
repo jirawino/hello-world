@@ -8,6 +8,10 @@
     <input type="text" placeholder="Full Name" name="Name" id="Name" required>
     <br>
     
+    <label for="mobile"><b>Enter Your Dad Name</b></label>
+    <input type="text" placeholder="Dad Name" name="dadname" id="mobile" required>
+    <br>
+
     <label for="mobile"><b>Enter Your Fucking mobile No.</b></label>
     <input type="text" placeholder="Moible Number" name="mobile" id="mobile" required>
     <br>
