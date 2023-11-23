@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for New Website</h1>
+    <h1>Register for New User</h1>
     <p>Fill this form to create an account.</p>
     <hr>
      
@@ -35,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> May the force be with you !! </h1>
+   <h1>May the force be with you !!</h1>
 
   
 </form>
