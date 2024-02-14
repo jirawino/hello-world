@@ -24,10 +24,6 @@
     <input type="password" placeholder="Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Password Again</b></label>
-    <input type="password" placeholder="Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
-    <br>
     <p>By creating an account you agree to our Communities <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
